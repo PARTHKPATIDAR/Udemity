@@ -1,0 +1,5 @@
+/.idea
+/env
+/backend/env
+/backend/backend.iml
+/backend/db.sqlite3
